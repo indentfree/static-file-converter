@@ -38,6 +38,8 @@ Security options :
  - dark (defaut unix terminal)
  - light (invert black and white color)
 
+below screenshot of ansi_test_file.txt in HTML with different styles :
+
 ![alt tag](https://github.com/indentfree/static-file-converter/blob/master/expected_ansi_html.png)
 
 
