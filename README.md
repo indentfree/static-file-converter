@@ -6,4 +6,6 @@ Simple static file server converter :
  - convert authorized_path detected in content to hyperlink
  - allow basic authentification
  multi path are allowed and each  must be a valid regex, exemple :
+ ``` 
  --path /var/\S*/logs/\S* /home/specific_user/log/\S* /environnements/\S*/logs/\S*
+ ```
