@@ -17,6 +17,3 @@
 1;36m  [1;36m  Color  [0m [1;36m[40m  Color  [0m [1;36m[41m  Color  [0m [1;36m[42m  Color  [0m [1;36m[43m  Color  [0m [1;36m[44m  Color  [0m [1;37m[45m  Color  [0m [1;36m[46m  Color  [0m [1;36m[47m  Color  [0m
   37m  [37m  Color  [0m [37m[40m  Color  [0m [37m[41m  Color  [0m [37m[42m  Color  [0m [37m[43m  Color  [0m [37m[44m  Color  [0m [37m[45m  Color  [0m [37m[46m  Color  [0m [37m[47m  Color  [0m
 1;37m  [1;37m  Color  [0m [1;37m[40m  Color  [0m [1;37m[41m  Color  [0m [1;37m[42m  Color  [0m [1;37m[43m  Color  [0m [1;37m[44m  Color  [0m [1;37m[45m  Color  [0m [1;37m[46m  Color  [0m [1;37m[47m  Color  [0m
-
-Unsupported ANSI escape codes:
-[7m ansi code 7 (reverse/negative) [0m
